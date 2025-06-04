@@ -9,8 +9,13 @@ A SwiftUI demo application demonstrating form validation and API integration wit
 - Loading indicators during API calls
 - Responsive UI with keyboard optimization
 
-## Requirements
-- iOS 15.0+
-- Xcode 13+
-- Swift 5.5+
+## Technologies Used
+- **Swift** – Programming language
+- **UIKit** – UI framework
+- **Alamofire** – Networking
+- **SwiftLint** – Code linting
+- **MVVM Architecture** – For better code structure and scalability
 
+## Installation and Usage
+1. Clone the repository: git clone https://github.com/Gursimrankaur7/FormSubmission.git
+2. Open the project in Xcode.
